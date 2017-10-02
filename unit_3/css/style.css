@@ -2,9 +2,13 @@ body{
 	background: #FFD7D3;
 	font-family: Helvetica, san-serif;
 }
+hr{
+	size:;
+}
 h1{
 	font-family: Bodoni, serif;
 	color: #FF553B;
+	font-size: 15px;
 }
 .slogan{
 	font-style: italic;
