@@ -1,9 +1,10 @@
 body{
 	background: #FFD7D3;
 	font-family: Helvetica, san-serif;
+	text-align: center;
 }
 hr{
-	size:;
+	size:40px;
 }
 h1{
 	font-family: Bodoni, serif;
