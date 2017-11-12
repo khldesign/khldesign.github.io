@@ -1,0 +1,27 @@
+body {
+  font-size: 30px;
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  font-size: 2em;
+  font-family: 'Roboto', sans-serif;
+}
+
+#about {
+  font-size: 1.3em;
+  border-bottom: 1px solid black;
+  display: block;
+  float: left;
+}
+
+#info {
+  display: block;
+  float: right;
+}
+
+h3 {
+  font-size: 1.1em;
+}
+
+ul {}
